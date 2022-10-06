@@ -1,0 +1,13 @@
+{
+    "31337":{
+    "Fundraiser": {
+        "address":"0x5FbDB2315678afecb367f032d93F642f64180aa3"
+    },
+     "explorerURL":"#"
+    },
+    "5":{
+        "fundraiser":{
+            "address":"0x30E808d3bfD5E8035bcB9bCdFF0a41A1A00703E6"
+        }
+    }
+}
